@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with CSS's `calc()` function. The `bug.css` file contains code that attempts to calculate a width based on a percentage and a pixel value, but this calculation may be inaccurate due to the order of operations. The `bugSolution.css` file provides a solution.
